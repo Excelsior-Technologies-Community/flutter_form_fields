@@ -1,7 +1,7 @@
 name: flutter_form_fields
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/flutter_form_fields
+homepage: https://github.com/Excelsior-Technologies-Community/flutter_form_fields
 
 environment:
   sdk: ^3.8.1
